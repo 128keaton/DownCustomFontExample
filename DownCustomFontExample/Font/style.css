@@ -1,0 +1,11 @@
+@font-face
+{
+    font-family: 'Ninja Naruto';
+    src: url('njnaruto.ttf');
+}
+
+body {
+     font-family: 'Ninja Naruto';
+     font-size: 8em;
+     line-height: 2.0;
+}
